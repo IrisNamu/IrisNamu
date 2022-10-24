@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**IrisNamu/IrisNamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# YouJin Song😃
+
+   
+
+### How to reach me? 🤔
+- 📮  **SongSunKite's email ...**
+songsunkite@gmail.com
+
+- 📚  **SongSunKite's Notion ...** 
+https://irisnamu.notion.site/637d89494b6e454ea7c24696a660e4f0
+
+- 🐱  **SongSunKite's Git...**
+ https://github.com/IrisNamu
+
+  
+----
+
+<div align="center">
+<h3>Baekjoon tear</h3>
+<p style="text-align: center;">  
+<img  align='center'  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songsunkite"> 
+<p>
+<img align='center' src="http://mazandi.herokuapp.com/api?handle=songsunkite&theme=dark"/>
+</p><hr>
+ 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrisNamu&show_icons=true&theme=tokyonight)
