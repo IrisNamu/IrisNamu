@@ -11,8 +11,8 @@
 - 📮  **SongSunKite's email ...**
 songsunkite@gmail.com
 
-- 📚  **SongSunKite's Notion ...** 
-https://irisnamu.notion.site/637d89494b6e454ea7c24696a660e4f0
+- 📚  **SongSunKite's Blog ...** 
+[https://irisnamu.notion.site/637d89494b6e454ea7c24696a660e4f0](https://songsunkite.tistory.com/)
 
 - 🐱  **SongSunKite's Git...**
  https://github.com/IrisNamu
