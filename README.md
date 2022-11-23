@@ -14,9 +14,6 @@ songsunkite@gmail.com
 - 📚  **SongSunKite's Blog ...** 
 https://songsunkite.tistory.com/ 
 
-- 🐱  **SongSunKite's Git...**
- https://github.com/IrisNamu
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrisNamu&show_icons=true&theme=tokyonight)
 
 
