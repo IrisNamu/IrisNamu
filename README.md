@@ -24,7 +24,7 @@ https://songsunkite.tistory.com/
   
 ----
 <div>
-<h3>Baekjoon tear</h3>
+<h3>Baekjoon</h3>
 <p> https://solved.ac/profile/songsunkite </p>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songsunkite"/> 
 <img align='left' src="http://mazandi.herokuapp.com/api?handle=songsunkite&theme=warm"/>
