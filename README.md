@@ -11,9 +11,6 @@
 - 📮  **SongSunKite's email ...**
 songsunkite@gmail.com
 
-- 📚  **SongSunKite's Salesforce Blog ...** 
-https://salesforce-developer-songsunkite.tistory.com/
-
 - 🧸  **SongSunKite's Blog ...** 
 https://songsunkite.tistory.com/ 
 
